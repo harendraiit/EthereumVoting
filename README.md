@@ -24,7 +24,7 @@ This project is a simple implementation of a voting system done to understand th
 
 ### Step 1. Clone the project
 
-```git clone https://github.com/ashishlamsal/voting-dapp```
+```git clone https://github.com/harendraiit/EthereumVoting```
 
 ### Step 2. Start Ganache
 
